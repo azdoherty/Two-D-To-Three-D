@@ -4,3 +4,5 @@ env/
 *.csv
 *.jgp
 .idea/
+.vscode/
+__pycache__/
